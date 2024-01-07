@@ -98,6 +98,3 @@ if [ "$?" -ne 0 ]; then
    echo "-------------------------------command failed-------------------------------"
    exit 1
 fi
-echo "finish!!!"
-echo "使用sqoop_demo1分支进行操作"
-echo "master分支操作"
